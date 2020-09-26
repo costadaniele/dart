@@ -15,3 +15,17 @@
 
 - Array
 - Class
+
+---
+
+Para criar um projeto no no Visual Studio Code com o Flutter
+
+- `ctrl + shift + p`
+
+- Flutter: New Project
+
+---
+
+Atalho para criar StatelessWidget no Visual Studio Code
+
+`stl`
