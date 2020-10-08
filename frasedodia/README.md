@@ -1,4 +1,4 @@
-# frase_do_dia
+# frasedodia
 
 A new Flutter project.
 
